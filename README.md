@@ -16,7 +16,7 @@ The initial documents posted to this repository will include:
 -  Panel Overlay
 -  Drill Template
 -  PDF File outlining the project which was used by the Cowtown Amateur Radio Club - which includes some good pictures of the ATU
--  Detailed construction manual (v1.1)
+-  Detailed construction manual (v1.3)
 
 73's
 Richard 
